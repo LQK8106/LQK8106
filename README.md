@@ -1,4 +1,4 @@
-# I-KUN-L1
+# LQK8106
 
 **Java 后端开发 · Spring Cloud 微服务**
 
@@ -8,7 +8,7 @@
 
 ## 项目
 
-### [zx-learn · 知行智学](https://github.com/I-KUN-L1/zx-learn)
+### [zx-learn · 知行智学](https://github.com/LQK8106/zx-learn)
 
 AI 驱动的在线教育微服务平台 · Java 21
 
@@ -18,7 +18,7 @@ AI 驱动的在线教育微服务平台 · Java 21
 - 优惠券秒杀：Redis Lua 原子预扣 + 令牌桶限流 + MQ 削峰，实测拒绝路径峰值 6,144 QPS / P99 150ms
 - AI 智能助教：多 Agent 架构（意图路由 + 4 个业务 Agent）、Redis 会话记忆、pgvector RAG、SSE 流式输出
 
-### [CodeJudge · 分布式在线编程评测平台](https://github.com/I-KUN-L1/CodeJudge)
+### [CodeJudge · 分布式在线编程评测平台](https://github.com/LQK8106/CodeJudge)
 
 Java 21 微服务（8 个后端服务 + Vue 3 前端）
 
